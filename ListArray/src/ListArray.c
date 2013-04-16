@@ -86,6 +86,9 @@ int main(void) {
 	add_to_list_in_array(462,2);
 	add_to_list_in_array(463,3);
 	add_to_list_in_array(480,0);
+	add_to_list_in_array(212,0);
+	add_to_list_in_array(111,0);
+
 
 // print the contents of all the lists to the console
 	for (i = 0; i< nlists; i++){
